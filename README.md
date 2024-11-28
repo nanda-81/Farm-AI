@@ -72,10 +72,10 @@ The motivation behind FarmAI stems from the desire to address various challenges
 ## Getting Started
 
 ## REPO LINK
-https://github.com/Sumanth-35/byteverse_Dev-CP.git
+https://github.com/nanda-81/Farm-AI
 1. Clone the Git repository:
    bash
-   git clone https://github.com/Sumanth-35/byteverse_Dev-CP.git
+   git clone https://github.com/nanda-81/Farm-AI
 
 2.Navigate to the project directory: cd farm-ai
 
